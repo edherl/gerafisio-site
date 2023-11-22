@@ -6,7 +6,7 @@ The website was created by the group to promote its work and scientific publicat
 
 On the website, visitors will find information about the group's research areas, recent publications, and other activities related to their work.
 
-## Projeto
+## Project
 
 This project is a part of my personal portfolio, and therefore, I would greatly appreciate it if you could share any feedback with me regarding the project, code, structure, or any other aspect that could help me become a better developer.
 
